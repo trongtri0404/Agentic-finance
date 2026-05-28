@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+python-dotenv
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+tavily-python
+beautifulsoup4
+lxml
+pandas
+mcp
+sentence-transformers
+nltk
